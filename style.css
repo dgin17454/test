@@ -1,0 +1,51 @@
+header {
+    color: white;   
+    font-family: Impact;
+    display: flex;
+    justify-content: space-around;
+}
+ 
+body {
+    background-color: #2D2023;
+}
+header h1 {
+    border: black 3px;
+    border-radius: 50%;
+    background-color: #5B1515;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.oval {
+    border: black 3px;
+    border-radius: 50%;
+    background-color: #D9D9D9;
+    padding-top: 10;
+    text-align: center;
+}
+.info {
+    padding-bottom: 50;
+    padding-left: 350;
+    font-size: 30;
+    width: 50%;
+    text-align: center;
+}
+.information {
+    font-size: 40;
+    text-align: center;
+}
+.theme {
+    border: white;
+    border-radius: 0;
+}
+
+body {
+    color: white;
+    font-family: Impact;
+}
+.image {
+    display: flex;
+    justify-content: space-around;
+}
